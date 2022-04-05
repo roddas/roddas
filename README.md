@@ -7,15 +7,20 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, a Software Engineering student at Univ
 # Technical knowledge
 * Data Structure and Algorithms
 * Object-Oriented Programming
-* Basics of Competitive Programming 
+* Basics of Competitive Programming
+* REST/RESTful API
+* Microsservices 
 * CyberSecurity Essentials
+* Basics of Penetration Test
 * Network Essentials
 
 # Tools
-![mysql](https://user-images.githubusercontent.com/9947506/125701270-7a7cb7cf-55fc-49e1-b263-273369256814.png)  ![nodejs](https://user-images.githubusercontent.com/9947506/125701274-83c7a9cd-5f1e-4be3-ba5e-5bcc60b1eb7a.png)
+![mysql](https://user-images.githubusercontent.com/9947506/125701270-7a7cb7cf-55fc-49e1-b263-273369256814.png)  ![nodejs](https://user-images.githubusercontent.com/9947506/125701274-83c7a9cd-5f1e-4be3-ba5e-5bcc60b1eb7a.png) ![bitmap](https://user-images.githubusercontent.com/9947506/161819020-9155010e-acff-4f09-8d61-2a1eb27dee21.png)
+
 
 # Others
-![linux](https://user-images.githubusercontent.com/9947506/125700570-07054ab3-6fbf-4bf8-96a4-374b3721270a.png)
+
+![linux](https://user-images.githubusercontent.com/9947506/125700570-07054ab3-6fbf-4bf8-96a4-374b3721270a.png)  ![kali](https://user-images.githubusercontent.com/9947506/161820543-5bc65a06-2322-4769-8408-9ed0c1cc27ff.png)
 
 # Contacts
 * [Linkedin](https://www.linkedin.com/in/rodolfo-neves-937324158/)
