@@ -2,7 +2,7 @@
 Rodolfo Cabral Neves a.k.a Roddas Cabral:
 
 * A Software Engineering student at University of Brasília
-* A junior penetration tester
+* A Junior Penetration Tester
 * An eternal apprentice .
 
 # Languages
