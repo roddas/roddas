@@ -43,6 +43,10 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral:
 
 # Tools
 ![mysql](https://user-images.githubusercontent.com/9947506/125701270-7a7cb7cf-55fc-49e1-b263-273369256814.png)  ![nodejs](https://user-images.githubusercontent.com/9947506/125701274-83c7a9cd-5f1e-4be3-ba5e-5bcc60b1eb7a.png) ![bitmap](https://user-images.githubusercontent.com/9947506/161819020-9155010e-acff-4f09-8d61-2a1eb27dee21.png)
+![prisma](https://user-images.githubusercontent.com/9947506/197392181-3656fbc7-77ba-4540-905b-813b87a69bb3.svg)
+![mongo](https://user-images.githubusercontent.com/9947506/197392672-8dc33983-a2cf-4a16-a2d4-ee59a93882dc.svg)
+![eslint](https://user-images.githubusercontent.com/9947506/197403598-7b8d89fc-200f-4305-a4ab-8d2ff9cd2e0e.svg)
+![prettier](https://user-images.githubusercontent.com/9947506/197403773-ab00ff56-b331-47dd-899b-d24f31cc22fa.svg)
 
 
 # Others
