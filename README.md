@@ -47,6 +47,7 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral:
 ![mongo](https://user-images.githubusercontent.com/9947506/197392672-8dc33983-a2cf-4a16-a2d4-ee59a93882dc.svg)
 ![eslint](https://user-images.githubusercontent.com/9947506/197403598-7b8d89fc-200f-4305-a4ab-8d2ff9cd2e0e.svg)
 ![prettier](https://user-images.githubusercontent.com/9947506/197403773-ab00ff56-b331-47dd-899b-d24f31cc22fa.svg)
+![react](https://user-images.githubusercontent.com/9947506/197404014-93b6fbc4-4d23-42ad-8989-a90be9c78618.svg)
 
 
 # Others
