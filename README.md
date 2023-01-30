@@ -1,5 +1,5 @@
 # About me
-Rodolfo Cabral Neves a.k.a Roddas Cabral:
+Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam also:
 
 * A Software Engineering student at University of Brasília
 * A Junior Penetration Tester
