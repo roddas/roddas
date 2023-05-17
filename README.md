@@ -21,6 +21,8 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam also:
 * REST/RESTful API
 * Microsservices 
 * Agile methodologies
+* Software Testing
+* Requirements Engineering
 
 ### In Penetration Test field
 
