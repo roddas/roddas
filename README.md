@@ -22,6 +22,7 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam also:
 * Microsservices 
 * Agile methodologies
 * Software Testing
+* Software Documentation
 * Requirements Engineering
 
 ### In Penetration Test field
