@@ -11,6 +11,7 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 # Languages  and technologies
 * Assembly MIPS + Intel x86/x64
 * C / C++
+* Haskell
 * Python
 * SQL + MySQL + PostgreSQL
 * Java + JUnit + JDoc
@@ -27,7 +28,8 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 * Object-Oriented Programming
 * Basics of Competitive Programming
 * REST/RESTful API
-* Microsservices 
+* Microsservices
+* Software design
 * Agile methodologies
 * Software Testing
 * Software Documentation
