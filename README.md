@@ -21,21 +21,21 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 
 # Hard Skills
 
-### In Software Engineering field
+### In the Software Engineering field
 
 * Data Structure and Algorithms
-* Problem solving skills
+* Problem-solving skills
 * Object-Oriented Programming
 * Basics of Competitive Programming
 * REST/RESTful API
-* Microsservices
+* Microservices
 * Software design
 * Agile methodologies
 * Software Testing
 * Software Documentation
 * Requirements Engineering
 
-### In Cybersecurity Test field
+### In the Cybersecurity Test field
 
 * CyberSecurity Essentials
 * Web Application
@@ -52,9 +52,10 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 * Metasploit Framework
 * Bruteforcing (at all)
 
-### In Operating System field
+### In the Operating System field
 * Currently learning advanced Linux programming in C
 * Debugging programs with GNU Debugger
+* Operating System fundamentals
 * Basics of Linux Kernel Development
  
 # Soft Skills
