@@ -35,7 +35,7 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 * Software Documentation
 * Requirements Engineering
 
-### In the Cybersecurity Test field
+### In the Cybersecurity field
 
 * CyberSecurity Essentials
 * Web Application
