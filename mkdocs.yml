@@ -1,1 +1,16 @@
-site_name: My Docs
+site_name: Rodolfo Cabral Neves
+theme:
+  name: material
+markdown_extensions:
+  - attr_list
+  - md_in_html
+nav:
+  - Home: index.md
+  - Software Engineering:
+    - Curriculum: swe/swe_curriculum.md
+    - Projects: swe/swe_projects.md
+    - Courses and Experiences: swe/swe_courses.md
+  - CyberSecurity:
+    - Curriculum: cybersec/cybersec_curriculum.md
+    - Projects: cybersec/cybersec_projects.md
+    - Courses and Experiences: cybersec/cybersec_projects.md
