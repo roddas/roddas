@@ -14,3 +14,11 @@
         </ul>
     </li>
 </ol>
+
+# Projects
+
+|Name| Description  | Language and Techs |Link |  
+| -- | -- | -- |-- | 
+| CyberSkule  |  A simple platform to learn about cybersecurity in a fun and playful way | NodeJS + AdonisJS + PostgreSQL + NextJS + TailwindCSS | [CyberSkule](https://cyber.skule.io/home) |
+| Ko Vatuvembela|  A platform for integration, knowledge exchange and learning of Angola's national languages. | NodeJS + AdonisJS + PostgreSQL + NextJS + TailwindCSS  | [Ko Vatuvembela](https://github.com/Ko-Vatuvembela) |
+| Jikulumesu  |  A simple daemon that controlls and watches the shell instances. | C + Linux API's | [Jikulumesu](https://github.com/roddas/jikulumesu) |
