@@ -1,6 +1,6 @@
 # Experience
 
-<ul>
+<ol>
     <li>VALEC Engineering, SA, May 2021 – June 2022
         <ul>
             <li><p align='justify'>
@@ -13,4 +13,4 @@
             I worked as a full-stack developer intern, creating responsive web pages using ReactJS with TypeScript and TailwindCSS. In the Back-End, I modeled user data, created question and answer games and an email sending system using PostgreSQL, created APIs for server integration using AdonisJS.</p></li>
         </ul>
     </li>
-</ul>
+</ol>
