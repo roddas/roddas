@@ -26,6 +26,7 @@
 <li>Basics of Prolog</li>
 <li>SQL</li>
 <li>MySQL</li>
+<li>MongoDB</li>
 <li>PostgreSQL</li>
 <li>HTML + CSS</li>
 <li>Proficient in JavaScript/TypeScript</li>
