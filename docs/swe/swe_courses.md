@@ -7,5 +7,4 @@
     <li><a href='https://app.rocketseat.com.br/certificates/b62c505d-e729-4b59-8c01-eb69141921d4' target='_blank'>Conectar's path</a></li>
     <li><a href='https://app.rocketseat.com.br/certificates/84247585-af83-49b9-bcc9-9c99c12bcab5' target='_blank'>Especializar's path </a></li>
     <li><a href='https://app.rocketseat.com.br/certificates/300bc8c1-d5e0-48dd-bd3d-000ee397e72d' target='_blank'>Fundamentar's path </a></li>
-    <li><a href='' target='_blank'>Connecting </a></li>
 </ul>
