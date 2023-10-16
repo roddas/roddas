@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Welcome to my professional site
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+On this website you can view my professional career.
 
-## Commands
+# What am I ?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+I'm Rodolfo Cabral Neves a:
+* Software Engineering student
+* Aspiring Pentester
+* Open source contributor
+* very good person
+* Lifelong learner
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Dedicated and forward-thinking Software Engineering student with a passion for continual learning and a diverse skill set. Full-stack Web Developer, Linux system developer, and cybersecurity enthusiast contributing to open-source projects. Strong problem-solving, analytical, and documentation skills, with expertise in various programming languages and software development tools.
