@@ -11,8 +11,6 @@
 <li>Requirements Engineering</li>
 <li>Strong knowledge in Operating System Fundamentals</li>
 <li>Basics of Linux Kernel Development</li>
-
-
 </ul>
 
 
