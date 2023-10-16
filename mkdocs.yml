@@ -7,7 +7,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Software Engineering:
-    - Hard Skills: swe/swe_curriculum.md
+    - Hard Skills: swe/swe_hard_skills.md
     - Experiences: swe/swe_projects.md
     - Courses: swe/swe_courses.md
   - CyberSecurity:
