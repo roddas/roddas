@@ -23,7 +23,7 @@
     <li>Basics of Haskell</li>
     <li>Basics of Prolog</li>
     <li>SQL + MySQL + PostgreSQL</li>
-    <li>MongoDB</li>
+    <li>MongoDB + Prisma</li>
     <li>HTML + CSS + Bootstrap + TailwindCSS + BulmaCSS</li>
     <li>Proficient in JavaScript and TypeScript</li>
     <li>Proficient in NodeJS</li>
