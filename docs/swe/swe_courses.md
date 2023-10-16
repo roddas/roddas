@@ -1,5 +1,7 @@
 # Courses
 
+<p>These courses helped me understand and learn many Software Engineering concepts and I use them in my personal or professional projects.</p>
+
 <ul>
     <li><a href='https://learn.mongodb.com/c/MH8NmZCPVQqHasKQjKshag' target='_blank'>MongoDB Basics</a></li>
     <li><a href='https://learn.mongodb.com/c/Q0v0OCm3RCWsdsdpy_90Zw' target='_blank'>Connecting to MongoDB in Node.js</a></li>

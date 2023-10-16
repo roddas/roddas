@@ -17,6 +17,8 @@
 
 # Projects
 
+<p>In these projects I applied several Software Engineering concepts that I learned over time. Some of them are unfinished, but I'm working daily to improve them. </p>
+
 |Name| Description  | Language and Techs |Link |  
 | -- | -- | -- |-- | 
 | CyberSkule  |  A simple platform to learn about cybersecurity in a fun and playful way | NodeJS + AdonisJS + PostgreSQL + NextJS + TailwindCSS | [CyberSkule](https://cyber.skule.io/home) |
