@@ -1,9 +1,9 @@
 # About me
 Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 
-* A Software Engineering student at University of Brasília
-* Cybersecurity student
-* Fullstack Web Developer
+* A Software Engineering student at [University of Brasília](https://unb.br/)
+* Cybersecurity Intern at [LAPPIS](https://www.lappis.rocks/)
+* Software Engineer Intern at [Fundação ASSEFAZ](https://assefaz.org.br/)
 * Open source contributor
 * A very good person
 * A lifelong learner 
@@ -15,7 +15,7 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 * Python
 * SQL + MySQL + PostgreSQL
 * Java + JUnit + JDoc
-* HTML + CSS + JavaScript / TypeScript
+* HTML + CSS + JavaScript / TypeScript , NodeJS
 * NodeJS + ExpressJS + AdonisJS + ReactJS + NextJS
 * Bash scripting
 
@@ -40,8 +40,12 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 * CyberSecurity Essentials
 * Web Application
     * SQL Injection
+    * Command Injection
+    * Insecure Direct Object References - IDOR
     * Cross Site Scripting - XSS
+    * XML External Entity Injection
     * Fuzzing
+    * HTTP Verb Tampering
     * JavaScript deobfuscation
     * Bruteforcing
     * Local File Inclusion exploitation - LFI
