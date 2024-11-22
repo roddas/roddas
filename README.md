@@ -3,7 +3,7 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 
 * A Software Engineering student at [University of Brasília](https://unb.br/)
 * Cybersecurity Leader at [LAPPIS](https://www.lappis.rocks/)
-* Software Engineer Intern at [Fundação ASSEFAZ](https://assefaz.org.br/)
+* DevSecOps Intern at [Fundação ASSEFAZ](https://assefaz.org.br/)
 * Open source contributor
 * A very good person
 * A lifelong learner 
