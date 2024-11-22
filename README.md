@@ -42,6 +42,7 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 * Infrastructure hardening
 * DevSecOps
 * Docker and Kubernetes hardening
+* SIEM
   
 
 ### In the Operating System field
