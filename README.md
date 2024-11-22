@@ -37,24 +37,12 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 
 ### In the Cybersecurity field
 
-* CyberSecurity Essentials
-* Web Application
-    * SQL Injection
-    * Command Injection
-    * Insecure Direct Object References - IDOR
-    * Cross Site Scripting - XSS
-    * XML External Entity Injection
-    * Fuzzing
-    * HTTP Verb Tampering
-    * JavaScript deobfuscation
-    * Bruteforcing
-    * Local File Inclusion exploitation - LFI
-* Vulnerability Assessment
-* Network Essentials
-* Network Enumeration
-* Reverse engineering concepts
-* Metasploit Framework
-* Bruteforcing (at all)
+* MITTRE ATTACK, NIST, OWASP Top 10
+* Web Application Pentesting
+* Infrastructure hardening
+* DevSecOps
+* Docker and Kubernetes hardening
+  
 
 ### In the Operating System field
 * Currently learning advanced Linux programming in C
