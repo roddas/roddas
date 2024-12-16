@@ -38,11 +38,11 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 ### In the Cybersecurity field
 
 * MITTRE ATTACK, NIST, OWASP Top 10
-* Web Application Pentesting
-* Infrastructure hardening
-* DevSecOps
-* Docker and Kubernetes hardening
+* Web Application and Infrastructure Pentesting
+* Web Application and Infrastructure Hardening
+* OWASP Devsecops Maturity Model 
 * SIEM
+* Documentation and reporting
   
 
 ### In the Operating System field
