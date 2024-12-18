@@ -10,7 +10,7 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 
 # Languages  and technologies
 * Assembly MIPS + Intel x86/x64
-* C / C++
+* C + C++
 * Haskell
 * Python
 * SQL + MySQL + PostgreSQL
@@ -18,6 +18,7 @@ Rodolfo Cabral Neves a.k.a Roddas Cabral, Iam:
 * HTML + CSS + JavaScript / TypeScript , NodeJS
 * NodeJS + ExpressJS + AdonisJS + ReactJS + NextJS
 * Bash scripting
+* PHP + Laravel
 
 # Hard Skills
 
